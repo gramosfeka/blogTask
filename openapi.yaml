@@ -1,0 +1,8 @@
+openapi: 3.0.0
+paths:
+  /api/resource.json:
+    get:
+      operationId: 02109a4b6794b1373935a9e89d12521a
+      responses:
+        '200':
+          description: 'An example resource'
